@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+    border: 3px solid rgb(54, 45, 45);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+table{
+background:linear-gradient(120deg,blue,#69a2e4,rgb(71, 99, 134),lightblue);
+width: 60%;
+height: 60%;
+text-align: center;
+box-shadow: 10px 10px  10px rgb(54, 48, 54);
+}
+fieldset{
+background:rgb(202, 128, 128);
+width: 30%;
+height: 65%;
+border-radius: 10px;
+}
+button{
+box-shadow: 4px 8px 20px rgb(233, 40, 40);
+background: linear-gradient(90deg,rgb(255, 251, 251),rgb(124, 53, 53));
+border-radius: 10px;
+}
+legend{
+    top: 4%;
+}
